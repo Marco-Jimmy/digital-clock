@@ -1,4 +1,6 @@
 # Digital Clock
+Website:
+https://marco-jimmy.github.io/digital-clock/
 
 This is a simple & naive front-end project. The goal of this project is for me to learn how front end works and how to set up a website.
 
