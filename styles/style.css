@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../img/clock_wallpaper.jpg");
+    background-size: cover;
+}
+
+.main {
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 200px;
+    margin: 250px auto;
+    position: relative;
+    padding: 25px;
+    border-radius: 100px;
+}
+
+.bedge {
+    width: 150px;
+    height: 35px;
+    background-color: crimson;
+    font-family: 'Trade Winds', sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border-radius: 17.5px;
+    padding: 5px 10px;
+    position: absolute;
+    top: -15px;
+    left: 175px;
+}
+
+.clock {
+    background-color: #f8f7f7;
+    text-align: center;
+    font-size: 85px;
+    height: 100%;
+    border-radius: 75px;
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: bolder;
+    color: rgb(77, 77, 77);
+    padding-top: 30px;
+}
